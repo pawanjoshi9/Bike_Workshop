@@ -1,0 +1,63 @@
+.top-img img {
+    height: auto;
+}
+
+.left-skew-image img {
+    height: auto;
+}
+
+.image-card h3 {
+    font-size: 30px;
+}
+
+.play img {
+    display: none;
+}
+
+.center-image-container {
+    height: 55rem;
+    display: block;
+}
+
+.text {
+    width: 100%;
+    display: contents;
+}
+
+.left-text p {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+}
+
+.center-image img {
+    height: 15rem;
+    width: 23rem;
+    margin-top: 50px;
+}
+
+.right-text {
+    margin-top: 60px;
+}
+
+.right-text h3 {
+    text-align: center;
+}
+
+.container-top {
+    text-align: center;
+    display: block;
+}
+
+.container-top-text {
+    width: 100%;
+}
+.container-top-image {
+    width: 100%;
+    padding-left: 0px;
+}
+.container-bottom {
+    flex-direction: column;
+}

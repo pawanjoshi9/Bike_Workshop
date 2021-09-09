@@ -1,0 +1,15 @@
+.gallery img {
+    width: 17rem;
+    height: 12rem;
+}
+.left-text h3 {
+    font-size: 35px;
+    font-family: 'Baloo 2', cursive;
+}
+.left-text h4 {
+    font-size: 25px;
+    text-align: start;
+}
+.right-text h3 {
+    font-size: 24px;
+}

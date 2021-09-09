@@ -1,0 +1,45 @@
+.container-top-image img {
+    height: 17rem;
+}
+
+.left-skew-image img {
+    transform: none;
+    border-radius: 0px 0px 0px 0px;
+    width: 100%;
+}
+.data {
+    flex-direction: column;
+}
+.left-skew-image {
+    margin-left: 0;
+}
+.image-card {
+    background-image: none;
+    background-color: black;
+}
+.play {
+    top: 240px;
+}
+.center-image-container {
+    height: 40rem;
+}
+.text {
+    width: 30%;
+    text-align: justify;
+}
+.left-text h3{
+    text-align: center;
+}
+.left-text h4 {
+    text-align: center;
+}
+.right-text {
+    margin-top: -290px;
+}
+.gallery {
+    padding: 3px;
+}
+.gallery img {
+    width: 14rem;
+    height: 10rem;
+}
