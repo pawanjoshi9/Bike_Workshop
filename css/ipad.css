@@ -43,3 +43,6 @@
     width: 14rem;
     height: 10rem;
 }
+.footer-menu {
+    justify-content: space-between;
+}
