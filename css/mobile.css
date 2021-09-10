@@ -61,3 +61,19 @@
 .container-bottom {
     flex-direction: column;
 }
+.footer-menu {
+    flex-direction: column;
+    height: auto;
+}
+.footer {
+    text-align: center;
+    width: 100%;
+}
+.footer-logo img {
+    width: 100%;
+    
+}
+.footer-data {
+    height: 20rem;
+    border-top: 2px solid ;
+}
